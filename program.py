@@ -1,1 +1,1 @@
-print('Я домашка'
+print(ord('I'))
